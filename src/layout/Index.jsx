@@ -1,0 +1,11 @@
+function Index() {
+  return (
+    <div className="min-h-screen flex items-center justify-center bg-black">
+      <h1 className="text-5xl font-bold text-white">
+        Index
+      </h1>
+    </div>
+  );
+}
+
+export default Index;
